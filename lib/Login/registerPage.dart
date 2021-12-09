@@ -1,5 +1,3 @@
-// ignore_for_file: file_names
-
 import 'package:appscovid/Auth/register.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
